@@ -1,2 +1,5 @@
 # hangulbreak
-한글 깨기 스크립트입니다.
+
+## 실행 결과
+
+![demo.png](demo.png)
