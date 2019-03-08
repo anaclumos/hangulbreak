@@ -2,11 +2,9 @@
 
 # [한글깨기.py](한글깨기.py) & [Enyg.py (은는이가.py)](Enyg.py)
 
-## Enyg.py (은는이가.py)
+## Enyg.py
 
 ![demo3](assets/demo3.png)
-
-
 
 ## 한글깨기.py
 
