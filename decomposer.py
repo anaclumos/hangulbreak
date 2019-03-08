@@ -50,7 +50,7 @@ class hangulbreaker():
             # 마지막으로 미리 가지고 있던 유니코드 배열에서 필요한 값을 찾아 대입합니다.
 
     def 종성이_있다면(self):
-        if self.종성 != "":
+        if self.종성.strip() != "":
             return True
         else:
             return False
