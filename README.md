@@ -2,8 +2,8 @@
 
 # 한글깨기.py & 은는이가.py
 
-* [Python 3](Python)
-* Javascript (To be added!)
+  * [Python 3](Python)
+  * Javascript (To be added!)
 
 ## 은는이가.py
 
