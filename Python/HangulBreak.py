@@ -1,12 +1,15 @@
 # Developed by Sunghyun Cho on Feb 25, 2019.
 
-from decomposer import hangulbreaker as 한글분해
+from HangulDecomposeModule import HangulDecomposer as 한글분해
 
 글자인쇄최대길이 = 40
 
 def 차원분석(파자):
     길이 = 1 # 초성의 길이
     높이 = 1 # 초성의 높이
+
+    if len(파자.초성) == 3 and 파자.중성 == "   " and 파자.중성 == "   ":
+        return [1, 3]
 
     if 파자.가로형중성을_가진다면():
         길이 = 길이 + 1

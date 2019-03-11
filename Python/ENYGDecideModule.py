@@ -1,13 +1,12 @@
-# ENYGma (Eun-Neun-Yi-Ga)
 # Developed by Sunghyun Cho on March 9th, 2019.
 
-from decomposer import hangulbreaker as hb
+from HangulDecomposeModule import HangulDecomposer as hb
 
 def pronounceInKorean(word):
 	# modify accordingly for your use
 	return word
 
-def enygma(string, highlight):
+def ENYGDecider(string, highlight):
 	wordList = string.split()
 	newString = ""
 	for word in wordList:

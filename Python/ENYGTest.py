@@ -1,4 +1,4 @@
-from Enyg import enygma as e
+from ENYGDecideModule import ENYGDecider as e
 
 print()
 
@@ -8,6 +8,6 @@ print(e("코딩이라는 범위 안에서 정보와 의견[을or를] 나누는 �
 
 items = ["아이폰", "아이패드", "아이팟", "맥"]
 for item in items:
-	print(e("{}[이or가] 비활성화되었습니다.".format(item), True))
+	print(e("사용자의 {}[이or가] 비활성화되었습니다.".format(item), True))
 
 print()
