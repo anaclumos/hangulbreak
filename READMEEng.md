@@ -2,13 +2,13 @@
 
 # HangulBreak.py & ENYG.py
 
-* [Python 3](Python)
-* Javascript (To be added!)
+  * [Python 3](Python)
+  * Javascript (To be added!)
 
 - - -
 
-* [FB Post for HangulBreak](https://www.facebook.com/groups/codingeverybody/permalink/2725256104181575/)
-* [FB Post for ENYG.py](https://www.facebook.com/groups/codingeverybody/permalink/2751648758208976/)
+  * [FB Post for HangulBreak](https://www.facebook.com/groups/codingeverybody/permalink/2725256104181575/)
+  * [FB Post for ENYG.py](https://www.facebook.com/groups/codingeverybody/permalink/2751648758208976/)
 
 Hangul, the Korean Alphabet, can be decomposed into several components. For example, `컴퓨터`, meaning `Computer`, can be decomposed into `ㅋㅓㅁㅍㅠㅌㅓ`. While there are structural benefits if we can easily decompose Hangul, there are limited resources providing this functionalities. I have created my own module, and open sourced here.
 
@@ -18,7 +18,7 @@ In Korean, we have a suffix that elaborates the grammatical relationships betwee
 
 For example, "a" and "an" is conditionally switched according to the following word in English. We can analyze the following word to decide whether 'a' or 'an' fits in the place. But current Korean Hangul libraries are just writing both of them, like the following.
 
-```
+```text
 I like a(an) apple.
 ```
 Yes, it does the job, but it is aesthetically not pleasing and even confusing sometimes... The same thing was happening in Korean Hangul Libraries.
