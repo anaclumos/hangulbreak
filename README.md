@@ -4,13 +4,13 @@
 
 ## [Read this text in English](READMEEng.md)
 
-  * [Python 3](Python)
-  * Javascript (To be added!)
+1. [Python 3](Python)
+1. Javascript (To be added!)
 
 ---
 
-  * [한글깨기.py 페이스북 공유](https://www.facebook.com/groups/codingeverybody/permalink/2725256104181575/)
-  * [은는이가.py 페이스북 공유](https://www.facebook.com/groups/codingeverybody/permalink/2751648758208976/)
+1. [한글깨기.py 페이스북 공유](https://www.facebook.com/groups/codingeverybody/permalink/2725256104181575/)
+1. [은는이가.py 페이스북 공유](https://www.facebook.com/groups/codingeverybody/permalink/2751648758208976/)
 
 ## 은는이가.py
 
