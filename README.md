@@ -4,18 +4,16 @@
 
 ## [Read this text in English](READMEEng.md)
 
-- [x] [Python 3](Python)
-- [ ] Javascript
+- [x]   [Python 3](Python)
+- [ ]   Javascript
 
 ---
 
 ## [은는이가.py](https://www.facebook.com/groups/codingeverybody/permalink/2751648758208976/)
 
-
 ![demo3](assets/demo3.png)
 
 ## [한글깨기.py](https://www.facebook.com/groups/codingeverybody/permalink/2725256104181575/)
-
 
 ![demo1.png](assets/demo1.png)
 ![demo2.png](assets/demo2.png)

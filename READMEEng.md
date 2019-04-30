@@ -2,8 +2,8 @@
 
 # HangulBreak.py & ENYG.py
 
-- [x] [Python 3](Python)
-- [ ] Javascript
+- [x]   [Python 3](Python)
+- [ ]   Javascript
 
 - - -
 
