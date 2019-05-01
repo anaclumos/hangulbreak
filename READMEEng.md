@@ -2,9 +2,6 @@
 
 # HangulBreak.py & ENYG.py
 
-- [x]   [Python 3](Python)
-- [ ]   Javascript
-
 - - -
 
 Hangul, the Korean Alphabet, can be decomposed into several components. For example, `컴퓨터`, meaning `Computer`, can be decomposed into `ㅋㅓㅁㅍㅠㅌㅓ`. While there are structural benefits if we can easily decompose Hangul, there are limited resources providing this functionalities. I have created my own module, and open sourced here.
