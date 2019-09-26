@@ -1,10 +1,8 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3504707702a491bb4a40ad495a55cd6)](https://app.codacy.com/app/anaclumos/hangulbreak?utm_source=github.com&utm_medium=referral&utm_content=anaclumos/hangulbreak&utm_campaign=Badge_Grade_Dashboard) [![HitCount](http://hits.dwyl.io/anaclumos/hangulbreak.svg)](http://hits.dwyl.io/anaclumos/hangulbreak)
-
 # 한글깨기.py & 은는이가.py
 
 ## [Read this text in English](READMEEng.md)
 
----
+몇 가지 에러가 발생한다는 점을 인지하고 있습니다. 개선을 해보고 싶은데 영 시간이 나질 않네요.
 
 ## [은는이가.py](https://www.facebook.com/groups/codingeverybody/permalink/2751648758208976/)
 
